@@ -13,7 +13,7 @@
     "sessionPlaytime": "Temps de jeu de session",
     "totalPlaytime": "Temps de jeu total",
 
-    "balance": "Equilibre:",
+    "balance": "Solde:",
     "itemCount": ":x:/:max: objets",
 
     "transactionHistory": "Historique des transactions",
@@ -62,10 +62,10 @@
     "faction": "Faction",
     "factionName": "Nom de la faction",
 
-    "editFaction": "Editer la faction :name:",
-    "editRank": "Editer le rang :name:",
-    "editUpgrade": "Editer l'amélioration :name:",
-    "editReward": "Editer la récompense :name:",
+    "editFaction": "Éditer la faction :name:",
+    "editRank": "Éditer le rang :name:",
+    "editUpgrade": "Éditer l'amélioration :name:",
+    "editReward": "Éditer la récompense :name:",
 
     "reward": "Récompense",
 
@@ -83,11 +83,11 @@
     "maxMembers": "Membres max",
 
     "canCaptureTerritory": "Peut capturer un territoire",
-    "showOnBoard": "Montrer au tableau",
+    "showOnBoard": "Montrer sur le tableau",
     "inviteRequired": "Nécessite une invitation pour rejoindre",
     "isDefaultFaction": "Est la faction par défaut",
 
-    "inviteOnly": "Invitation seulement",
+    "inviteOnly": "Sous invitation seulement",
 
     "noRanksAvailable": "Aucun rang disponible !",
 
@@ -228,7 +228,7 @@
     "memberLeftFaction": "Vous avez quitté :faction:",
 
     "memberKicked": "Le membre :name: a été expulsé avec succès !",
-    "memberAdded": "Le joueur :name: a été ajouté avec succès à la faction :faction: !",
+    "memberAdded": "Le membre :name: a été ajouté avec succès à la faction :faction: !",
 
     "itemDeposited": "L'objet :name: a été déposé avec succès !",
     "itemWithdrawn": "L'objet :name: a été retiré avec succès !",
@@ -263,8 +263,8 @@
     "capturePoint": "Point de capture",
     "capturePointCreated": "Point de capture créé !",
     "capturePointDeleted": "Point de capture supprimé !",
-    "capturePointContested": "Contesté",
-    "capturing": "Capture",
+    "capturePointContested": "Point de capture contesté",
+    "capturing": "Capture en cours",
     "paused": "Pause",
     "claimed": "Obtenu",
     "notClaimed": "Non obtenu",
@@ -338,7 +338,7 @@
     "searchByName": "Recherche par nom",
 
     "kickMember": "Expulser un membre",
-    "kickMemberPrompt": "Etes-vous sûr de vouloir expulser :name: de :faction: ?",
+    "kickMemberPrompt": "Êtes-vous certain de vouloir expulser :name: de :faction: ?",
 
     "cantAfford": "Vous ne pouvez pas vous permettre cela !",
 
@@ -384,7 +384,7 @@
     "settings_defaultmaxmembers_desc": "Quel sera le nombre max de membres au commencement de la faction ?",
 
     "settings_defaultmaxitems": "Objets max par défaut",
-    "settings_defaultmaxitems_desc": "Quel sera le nombre max d'objets au commencement de la faction ?",
+    "settings_defaultmaxitems_desc": "Quel sera le nombre max d'objets à la création de la faction ?",
 
     "settings_factioncreatecost": "Coût de la création d'une faction",
     "settings_factioncreatecost_desc": "Combien cela coûtera-t-il pour créer une faction ?",
